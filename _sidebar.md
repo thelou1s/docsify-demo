@@ -14,8 +14,7 @@
   * [数据结构](./docs/c-2数据结构.md)
   * [算法](./docs/c-3算法.md)
   * [操作系统](./docs/c-4操作系统.md)
-  * [操作系统](./docs/c-4操作系统.md)
-  * [test1](./docs/test1.md)
+  * [测试](./docs/test1.md)
 
   
 
